@@ -1,0 +1,93 @@
+THE OECES WEBSITE PROJECT:
+
+the thing is: 
+	madali maglagay ng website sa internet
+	    ang mahirap ay magdesign ng website
+	this project is demanding
+	this is a bigger project than the others since name ng org
+		ang nakataya, kapag kase naglaunch tayo ng website e 
+		open for criticism yan kasi ibuview rin yan ng ibang courses 
+		or even other professors so we cant push binasta nang website
+ 	this project needs a lot of time and as many work force as 
+		it can possibly get kase pare parehas lang tayung konti lang	
+		experience sa pagdedesign ng website
+	if ever tapos na natin yung website:
+		we can retain the oeces.github.io website name or we can go the 
+		more professional route and change our website name for something
+		like oeces.com or oeces.org pero gagastos tayo. kung didistribute
+		naman yung payment sa oeces members, we can get 1 year of owning
+		that professional website name
+		note:
+ 			check first kung atin ba talaga yung oeces na naman kasi
+				baka malaw suit tayo kung may ibang nagpatrademark sa 	
+				name na oeces.
+	it is important to note na mahirap talagang gumawa ng maganda at functional
+		website, there is a reason why experienced web designers cost you 
+		12K-15K pesos for 1 pager websites kasi this is a lot of work talaga
+		
+ 
+plan a:
+ get a template online
+	pros:	
+		easier to the developers since the 
+		  structure of the website is already defined
+		relatively lesser time
+	cons:
+		the website structure: what we see is what we got
+		  (especially di naman kami masyadong experienced sa 
+		  front end web designing kasi yung iba may konti lang exp
+		  tas ako naman e backend web development yung ginagawa ko sa ojt.
+		mahirap sundan ang css stylesheet
+
+plan b: 
+ create the website from the ground up
+	pros:
+		we can get the desired structure of website pati lahat ng gusto
+			nating mailagay (provided na naaral nang ayos kung pano gawin)
+		more control on the website
+
+	cons:
+		maraming aaralin
+		mahabang time ang kailangan
+
+needs of the website:	//optional yung iba
+ the actual website
+ website page for suborgs
+ website page for oeces history, mission and vision
+ articles 
+	history of oeces article
+	upcoming events
+	featured students
+ twitter account
+ facebook page
+ ig account
+ google account 	//meron na kong nagawa
+ pictures and video backgrounds
+ pictures of oeces member and oeces professors
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
